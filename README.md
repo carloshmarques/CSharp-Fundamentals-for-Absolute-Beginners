@@ -58,7 +58,7 @@
 
 <!-- Change your small logo -->
 <a href="https://github.com/carloshmarques/CSharp Fundamentals-for-Absolute-Beginners">
-  <img alt="@carloshmarques/CSharp Fundamentals-for-Absolute-Beginners's brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
+  <img alt="@carloshmarques/CSharp Fundamentals-for-Absolute-Beginners's brand logo without text" align="right" src="https://i.imgur.com/EywWORF.png" width="10%" />
 </a>
 
 
@@ -66,9 +66,7 @@ We are currently looking for new donators to help and maintain this project! ❤
 
 By donating, you will help the development of this project, and *you will be featured in this CSharp-Fundamentals-for-Absolute-Beginners's README.md*, so everyone can see your kindness and visit your content ⭐.
 
-<a href="https://github.com/sponsors/carloshmarques"> <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
-  <img src="https://img.shields.io/badge/Sponsor-carloshmarques/CSharp Fundamentals-for-Absolute-Beginners-blue?logo=github-sponsors&style=for-the-badge&color=red">
-</a>
+<a href="https://github.com/sponsors/carloshmarques"><!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM --><img alt= "logo" src="https://img.shields.io/badge/Sponsor-carloshmarques/carloshmarques-blue?logo=github-sponsors&style=for-the-badge&color=red"></a><br><br>
 
 <!-- LINK TO YOUR DONATING PAGES HERE -->
 
