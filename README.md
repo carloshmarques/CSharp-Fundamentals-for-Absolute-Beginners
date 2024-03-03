@@ -5,7 +5,7 @@
 <div align="center">
   <!-- Change your logo -->
   <a href="https://github.com/carloshmarques/CSharp-Fundamentals-for-Absolute-Beginners">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@carloshmarques/CSharp-Fundamentals-for-Absolute-Beginners's logo">
+    <img width="100%" src="https://i.imgur.com/rj1HPjW.png" alt="@carloshmarques/Foundational-CSharp-course-with-Microsoft-Learn's logo">
   </a>
   <br>
   <a href="https://github.com/carloshmarques/CSharp-Fundamentals-for-Absolute-Beginners/issues">
