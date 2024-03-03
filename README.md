@@ -111,4 +111,4 @@ Watch the changes in the '**[CHANGELOG.md](CHANGELOG.md)**' file.
 
 ---
 
-* Made with a lot of ❤️❤️ by **[@carloshmarques](https://github.com/carloshmarques)**_
+_Made with a lot of ❤️❤️ by **[@carloshmarques](https://github.com/carloshmarques)**_
