@@ -58,7 +58,7 @@
 
 <!-- Change your small logo -->
 <a href="https://github.com/carloshmarques/CSharp Fundamentals-for-Absolute-Beginners">
-  <img alt="@carloshmarques/CSharp Fundamentals-for-Absolute-Beginners's brand logo without text" align="right" src="https://i.imgur.com/EywWORF.png" width="10%" />
+  <img alt="@carloshmarques/CSharp Fundamentals-for-Absolute-Beginners's brand logo without text" align="right" src="https://i.imgur.com/i8hCIzh.jpg" width="10%" />
 </a>
 
 
