@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Variables\Unit-2\bin\Debug\Unit-2.exe.config
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Variables\Unit-2\bin\Debug\Unit-2.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Variables\Unit-2\bin\Debug\Unit-2.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Variables\Unit-2\obj\Debug\Unit-2.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Variables\Unit-2\obj\Debug\Unit-2.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Variables\Unit-2\obj\Debug\Unit-2.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Variables\Unit-2\obj\Debug\Unit-2.pdb
