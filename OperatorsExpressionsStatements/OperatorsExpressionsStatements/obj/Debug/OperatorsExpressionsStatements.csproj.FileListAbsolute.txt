@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\OperatorsExpressionsStatements\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.exe.config
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\OperatorsExpressionsStatements\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\OperatorsExpressionsStatements\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\OperatorsExpressionsStatements\OperatorsExpressionsStatements\obj\Debug\OperatorsExpressionsStatements.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\OperatorsExpressionsStatements\OperatorsExpressionsStatements\obj\Debug\OperatorsExpressionsStatements.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\OperatorsExpressionsStatements\OperatorsExpressionsStatements\obj\Debug\OperatorsExpressionsStatements.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\OperatorsExpressionsStatements\OperatorsExpressionsStatements\obj\Debug\OperatorsExpressionsStatements.pdb

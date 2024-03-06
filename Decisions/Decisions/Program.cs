@@ -52,7 +52,7 @@ namespace Decisions
                 // Prompt the user to start new game("Y/N")
                 Console.Write("Play again? (Y/N): ");
 
-                // Turn all chars in to lower case
+                // Allow user to use lower case letters
                 string playAgain = Console.ReadLine().Trim().ToLower();
 
                 if (playAgain == "y")
@@ -92,9 +92,7 @@ namespace Decisions
                 }
             }
             // Wait for user input before exiting
-            Console.ReadLine();
-
-            // Continue here: https://youtu.be/0QUgvfuKvWU?t=6629
+            Console.ReadLine();         
         }
     }
 }
