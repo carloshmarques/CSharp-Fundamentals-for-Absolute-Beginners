@@ -14,7 +14,19 @@ namespace ForIteration
 
             for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine(i);
+                if (i == 7)
+                {
+                    Console.WriteLine("Nº seven found:");
+                    break;
+                }
+                // Console.WriteLine(i);
+                // Continue here:  https://youtu.be/0QUgvfuKvWU?t=7931
+            }
+
+            for (int myValue = 0; myValue < 12; myValue++)
+            {
+                Console.WriteLine(myValue);
+
             }
             Console.ReadLine();
         }
