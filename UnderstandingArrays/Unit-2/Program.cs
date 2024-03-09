@@ -4,21 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UnderstandingArrays
+namespace Unit_2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string[] names = new string[] { "Eddie","Alex", "Michael", "David Lee" };
-            
-            foreach (string name in names)
+            string zig = " The quieter you became, the better you ear!";
+
+            char[] charArray = zig.ToCharArray();
+
+            Array.Reverse(charArray);
+            foreach (char zigChar in charArray)
             {
-                Console.WriteLine(name);
+                Console.Write(zigChar);
             }
             Console.ReadLine();
-            
-                         
         }
     }
 }
