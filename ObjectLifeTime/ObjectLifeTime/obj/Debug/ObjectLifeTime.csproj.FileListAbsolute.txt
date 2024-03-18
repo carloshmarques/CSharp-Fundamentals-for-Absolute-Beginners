@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe.config
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.pdb
