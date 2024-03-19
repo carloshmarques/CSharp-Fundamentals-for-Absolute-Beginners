@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe.config
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.pdb
