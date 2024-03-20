@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UndestandingLINQ\UndestandingLINQ\bin\Debug\UndestandingLINQ.exe.config
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UndestandingLINQ\UndestandingLINQ\bin\Debug\UndestandingLINQ.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UndestandingLINQ\UndestandingLINQ\bin\Debug\UndestandingLINQ.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UndestandingLINQ\UndestandingLINQ\obj\Debug\UndestandingLINQ.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UndestandingLINQ\UndestandingLINQ\obj\Debug\UndestandingLINQ.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UndestandingLINQ\UndestandingLINQ\obj\Debug\UndestandingLINQ.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\UndestandingLINQ\UndestandingLINQ\obj\Debug\UndestandingLINQ.pdb
