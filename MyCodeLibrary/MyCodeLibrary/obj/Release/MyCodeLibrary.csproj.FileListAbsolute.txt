@@ -1,0 +1,6 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\MyCodeLibrary\bin\Release\MyCodeLibrary.dll
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\MyCodeLibrary\bin\Release\MyCodeLibrary.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.dll
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.pdb

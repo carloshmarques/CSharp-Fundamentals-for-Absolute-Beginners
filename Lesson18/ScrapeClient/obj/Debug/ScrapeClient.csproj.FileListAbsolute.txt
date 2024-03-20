@@ -1,0 +1,10 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeClient\bin\Debug\ScrapeClient.exe.config
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeClient\bin\Debug\ScrapeClient.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeClient\bin\Debug\ScrapeClient.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeClient\bin\Debug\ScrapeLibrary.dll
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeClient\bin\Debug\ScrapeLibrary.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeClient\obj\Debug\ScrapeCl.292BE2B4.Up2Date
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.pdb

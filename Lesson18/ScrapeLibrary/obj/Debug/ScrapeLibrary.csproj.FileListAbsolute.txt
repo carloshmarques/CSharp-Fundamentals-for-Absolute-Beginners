@@ -1,0 +1,6 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeLibrary\bin\Debug\ScrapeLibrary.dll
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeLibrary\bin\Debug\ScrapeLibrary.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeLibrary\obj\Debug\ScrapeLibrary.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeLibrary\obj\Debug\ScrapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeLibrary\obj\Debug\ScrapeLibrary.dll
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\Lesson18\ScrapeLibrary\obj\Debug\ScrapeLibrary.pdb
