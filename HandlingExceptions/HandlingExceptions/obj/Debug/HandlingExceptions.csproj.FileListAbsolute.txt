@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe.config
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.pdb
