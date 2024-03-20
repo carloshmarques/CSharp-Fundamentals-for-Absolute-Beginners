@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe.config
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\CSharp-Fundamentals-for-Absolute-Beginners\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.pdb
