@@ -24,7 +24,7 @@ jobs:
         node-version: '20'
 
     - name: Generate and update README
-      run: |
+      run: 
         tree=$(find . -type d -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g')
         start='<!--START_SECTION:tree-->'
         end='<!--END_SECTION:tree-->'
