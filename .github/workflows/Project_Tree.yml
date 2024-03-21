@@ -28,7 +28,8 @@ jobs:
         tree=$(find . -type d -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g')
         start='<!--START_SECTION:tree-->'
         end='<!--END_SECTION:tree-->'
-        sed -i "/^$start$/,/^$end$/c\\$start\n\`\`\`\n$tree\n\`\`\`\n$end" README.md
+        replacement="$start\n\`\`\`\n$tree\n\`\`\`\n$end"
+        sed -i "/^$start$/,/^$end$/c\\$replacement" README.md
 
     - name: Commit and push if changes
       run: |
