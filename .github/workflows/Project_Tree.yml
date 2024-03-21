@@ -1,0 +1,39 @@
+name: Update Project Tree
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Generate and update README
+      run: |
+        tree=$(find . -type d -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g')
+        start='<!--START_SECTION:tree-->'
+        end='<!--END_SECTION:tree-->'
+        sed -i "/^$start$/,/^$end$/c\\$start\n\`\`\`\n$tree\n\`\`\`\n$end" README.md
+
+    - name: Commit and push if changes
+      run: |
+        git diff
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -am "Update README with directory structure" || exit 0
+        git push
