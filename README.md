@@ -40,7 +40,7 @@ Through hands-on exercises and projects, I will (or so I hope) learn the fundame
 ## 🚀 **Usage**
 
 <!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
-* This course repository and its use depend entirely on current developments and are presented as you go. It consists of 6 parts and each part is subdivided into learning modules, which in turn are subdivided into smaller units.
+* This course repository and its use depend entirely on current developments and are presented as you go. It consists learning modules, according with Bob Tabor's MVA.
 * See more on the Microsoft Learn website.
 
 ---
@@ -90,7 +90,7 @@ CSharp-Fundamentals-for-Absolute-Beginners was generated from *[Josee9988/projec
 
 ---
 
-## 🎉 Was the "Bob Tabor MVA Tutorial" helpful? Help us raise these numbers up
+## 🎉 Was the "CSharp-Fundamentals-for-Absolute-Beginners" helpful? Help us raise these numbers up
 
 [![GitHub followers](https://img.shields.io/github/followers/carloshmarques.svg?style=social)](https://github.com/carloshmarques)
 [![GitHub stars](https://img.shields.io/github/stars/carloshmarques/CSharp-Fundamentals-for-Absolute-Beginners.svg?style=social)](https://github.com/carloshmarques/CSharp-Fundamentals-for-Absolute-Beginners/stargazers)
