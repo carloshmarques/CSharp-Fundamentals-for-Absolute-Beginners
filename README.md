@@ -23,7 +23,7 @@
  <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
 
 * After completing the Foundational-CSharp-course-with-Microsoft-Learn course, it seemed logical to me to complete Bob Tabor's MVA: "C# Fundamentals for Absolute Beginners", I had already tried to do this tutorial in the past, but as I was in the beginning of my learning. I didn't have or didn't feel the need to organize and plan my learning path.
-* This repository, as in the repository: "Foundational-CSharp-course-with-Microsoft-Learn", is a record of monitoring and maintenance of the code used in the course, with the aim of consulting and updating it as necessary and at an appropriate time and for learning purposes only.
+* This repository, as in the repository: "Foundational-CSharp-course-with-Microsoft-Learn", is a record of monitoring and maintenance of the code used in the course, with the aim of consulting and updating it as necessary at an appropriate time and for learning purposes only.
 * This Tutorial was created by Bob Tabor and I found it on the Microsoft Learn website and offers a comprehensive introduction to C# programming, covering its main concepts, syntax and practical application in software development.
 Through hands-on exercises and projects, I will (or so I hope) learn the fundamentals of C#, including variables, data types, control structures, and object-oriented programming principles.
 * By the end of this Tutorial, I hope to have gained the practical skills and knowledge needed to confidently leverage C# to create applications.
@@ -48,6 +48,8 @@ Through hands-on exercises and projects, I will (or so I hope) learn the fundame
 ## 🌲 **Project tree**
 
 <!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] -->
+<!--START_SECTION:tree-->
+<!--END_SECTION:tree-->
 
 ---
 
